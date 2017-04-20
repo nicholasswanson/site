@@ -1,1 +1,3 @@
-# site
+# Site
+
+Built with React.
