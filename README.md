@@ -1,3 +1,0 @@
-# Site
-
-Built with React.
